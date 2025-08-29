@@ -39,7 +39,8 @@ curl -X POST "http://localhost:8000/bfhl" \
      -H "Content-Type: application/json" \
      -d '{"data": ["a","1","334","4","R","$"]}'
 
-## Expected Response
+# Response
+
 {
   "is_success": true,
   "user_id": "srinath_kamalakumar",
@@ -54,7 +55,7 @@ curl -X POST "http://localhost:8000/bfhl" \
 }
 --
 ## 🌐 Deployment
-Deployed on Vercel: [https://bfhlqualifier1-qq9ypkzsc-srinath-kamalakumars-projects-de37d6ba.vercel.app/bfhl]https://bfhlqualifier1-qq9ypkzsc-srinath-kamalakumars-projects-de37d6ba.vercel.app/bfhl
+Deployed on Vercel: "https://bfhlqualifier1-qq9ypkzsc-srinath-kamalakumars-projects-de37d6ba.vercel.app/bfhl"
 --
 
 # Test deployed API
