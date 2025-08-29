@@ -20,7 +20,7 @@ User information and success status
 Tech Stack: FastAPI + Python + Vercel
 
 🛠 Setup & Run
-# Create virtual environment (Python 3.11/3.12)
+# Create virtual environment 
 - python -m venv venv
 - .\venv\Scripts\Activate
 
