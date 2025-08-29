@@ -69,7 +69,7 @@ curl -X POST "https://bfhlqualifier1-qq9ypkzsc-srinath-kamalakumars-projects-de3
 - main.py - FastAPI application with core logic
 - requirements.txt - Python dependencies
 - vercel.json - Deployment configuration
-- test_api.py - Automated test script
+- testapi.py - Automated test script
 - 
 ## ⚙️ Implementation Details
 - Numbers returned as strings (as per requirements)
